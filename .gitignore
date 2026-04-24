@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+backend/
+__pycache__
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
