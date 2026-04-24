@@ -126,7 +126,7 @@ Decide Node → Search Node → Generate Node
 * 🌐 Deploy on Render / Railway
 * 🧠 Memory-based conversations
 * 🎯 Better routing (LLM-based instead of similarity)
-*💎 Premium UI (chat-style interface)
+* 💎 Premium UI (chat-style interface)
 
 ## 👨‍💻 Author
 
